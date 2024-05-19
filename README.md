@@ -1,34 +1,38 @@
-## Hi there!
+## Hello There!
 
-I'm an Linux user, currently mainly using Gentoo or arch linux :D
+I'm an ardent Linux user, primarily immersing myself in the realms of Gentoo and Arch Linux with fervor :D
 
-### Skill
+Honestly, `apt` just feels too messy for me. `pacman` and `emerge` just much better >_>
 
-I've been typing linux commands more than I've been eating lol (really)
+### Proficiencies
 
-- Linux (More than 5 years of linux experience)
-- python (Web Crawling)
-- C# (.NET Windows from GUI)
-- C++ (Read, Write Memory Address)
-- Web: HTML, CSS, Javascript, ReactJS, NodeJS
-- Bash script
-- Penetration testing: Familiarity with many pentest tools
-- Reverse engineering: game hacking level
+I've practically lived and breathed Linux commands for more years than I've had meals – it's safe to say I've typed them more frequently than I've eaten! (XD)
 
-### Hobby
+- Linux (Over 7 years of user)
+- Python (Web Crawling)
+- C# (.NET and GUI for Windows)
+- C++ (Memory Addresses)
+- Web Development: HTML, CSS, JavaScript, ReactJS, NodeJS
+- Bash Scripting
+- Penetration Testing: Proficient with a variety of pentesting tools
+- Reverse Engineering: game hacking level
 
-i love watch pure love anime! Please don't NTR, i hate this.
+And currently, I'm immersing myself in the realms of Go and Rust languages.
 
-i love command line! Btw i use zsh and Hyprland :3
+### Pastimes
 
-### Interest in
+I find solace in indulging in pure love anime; however, I strongly dislike anything involving NTR >_>
 
-- Linux GUI programming
-- Penetration testing
-- Cyber Security
-- Reverse engineering
-- Game hacking
+Furthermore, I've developed a profound affection for the command line. BTW, I use zsh, kitty and Hyprland :3
+
+### Areas of Interest
+
+- Linux GUI Development
+- Penetration Testing
+- Cybersecurity
+- Reverse Engineering
+- Game Hacking
 
 ### Contact
 
-You can email via `hi@ummit.dev` address or GPG Public key [here](https://gitlab.com/UmmIt.gpg).
+Feel free to reach out via email at `hi@ummit.dev` or using my GPG Public key [here](https://gitlab.com/UmmIt.gpg).
