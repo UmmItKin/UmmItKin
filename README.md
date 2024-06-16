@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=ummitc&hide=stars)
+
 ## Hello There!
 
 I'm an ardent Linux user, primarily immersing myself in the realms of Gentoo and Arch Linux with fervor :D
