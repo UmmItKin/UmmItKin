@@ -1,40 +1,33 @@
-![](https://github-readme-stats.vercel.app/api?username=ummitc&hide=stars)
+![UmmItC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ummitc&show_icons=true&theme=transparent)
 
-## Hello There!
+## Hey yo 🤣
 
-I'm an ardent Linux user, primarily immersing myself in the realms of Gentoo and Arch Linux with fervor :D
+I’m a passionate `GNU/Linux` enthusiast and student, deeply immersed in both `Gentoo` and `Arch Linux`. My daily setup includes `zsh`, `kitty`, and `Hyprland` with `Arch` or `Gentoo`.
 
-Honestly, `apt` just feels too messy for me. `pacman` and `emerge` just much better >_>
+my dots here: https://github.com/UmmItC/dotfiles.git
 
-### Proficiencies
+### Skills and Experience
 
-I've practically lived and breathed Linux commands for more years than I've had meals – it's safe to say I've typed them more frequently than I've eaten! (XD)
+I’ve spent more years working with GNU/Linux commands than I’ve had meals—so it's safe to say I’ve typed them more often than I’ve eaten! 😹
 
-- Linux (Over 7 years of user)
-- Python (Web Crawling)
-- C# (.NET and GUI for Windows)
-- C++ (Memory Addresses)
-- Web Development: HTML, CSS, JavaScript, ReactJS, NodeJS
-- Bash Scripting
-- Penetration Testing: Proficient with a variety of pentesting tools
-- Reverse Engineering: game hacking level
-
-And currently, I'm immersing myself in the realms of Go and Rust languages.
-
-### Pastimes
-
-I find solace in indulging in pure love anime; however, I strongly dislike anything involving NTR >_>
-
-Furthermore, I've developed a profound affection for the command line. BTW, I use zsh, kitty and Hyprland :3
+- **GNU/Linux:** Over 7 years of experience, currently using `Arch/Gentoo` with `Hyprland` on a daily basis. I started with GNU/Linux at `13`.
+- **Python:** Mainly used for writing CLI tools.
+- **C#:** Experienced in .NET and GUI development for Windows, but now I exclusively use `GNU/Linux` 😉.
+- **C++:** Proficient in memory management and addresses.
+- **Web Development:** Skilled in HTML, CSS, JavaScript, ReactJS, and NodeJS..
+- **Shell Scripting:** Proficient in writing scripts, primarily for managing my dotfiles.
+- **Penetration Testing:** Play a lot of CTF and familiar with various tools like `nmap` 🤣.
+- **Reverse Engineering:** Experienced in game hacking using IDA, x64dbg, and Cheat Engine. I haven’t used Windows for this lately 🤞🏻.
 
 ### Areas of Interest
 
-- Linux GUI Development
-- Penetration Testing
-- Cybersecurity
-- Reverse Engineering
-- Game Hacking
+- **GNU/Linux** (50%)
+- **Ethical Hacking** (20%)
+- **Penetration Testing** (20%)
+- **Cyber Security** (10%)
+
+Basically is `GNU/Linux` ❤️❤️❤️🐧🐧🐧
 
 ### Contact
 
-Feel free to reach out via email at `hi@ummit.dev` or using my GPG Public key [here](https://gitlab.com/UmmIt.gpg).
+Feel free to reach out via email at `hi@ummit.dev` or connect with me using my GPG public key [here](https://gitlab.com/UmmIt.gpg) (GitLab).
