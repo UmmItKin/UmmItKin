@@ -31,7 +31,9 @@ Basically is `GNU/Linux` ❤️❤️❤️🐧🐧🐧
 ### Contact
 
 You can reach me via email at `hi@ummit.dev` or connect with me using my public key:
+
 https://gitlab.com/UmmIt.gpg
+
 
 If you'd like to connect through another method, please visit my Linktree website, which I created myself:
 https://about.ummit.dev
