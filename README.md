@@ -2,9 +2,10 @@
 
 ## Hey yo 🤣
 
-I’m a passionate `GNU/Linux` enthusiast and student, deeply immersed in both `Arch Linux`. My daily setup includes `zsh`, `kitty`, and `Hyprland` with `Arch`.
+I’m a passionate `GNU/Linux` enthusiast and student, deeply immersed in `Arch Linux`. My daily setup includes `zsh`, `kitty`, and `Hyprland` with `Arch`.
 
->I’m currently busy with a lot of homework LMAO
+>I’m currently busy with a lot of assignments :(
+>Also Playing rust and Nix language :)
 
 my dots here: https://github.com/UmmItC/dotfiles.git
 
@@ -28,7 +29,7 @@ I’ve spent more years working with GNU/Linux commands than I’ve had meals—
 - **Penetration Testing** (20%)
 - **Cyber Security** (10%)
 
-Basically is `GNU/Linux` ❤️❤️❤️🐧🐧🐧
+`GNU/Linux` ❤️❤️❤️🐧🐧🐧
 
 ### Contact
 
