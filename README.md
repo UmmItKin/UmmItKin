@@ -86,11 +86,10 @@ I am currently most interested in ethical hacking and GNU/Linux :p
 
 ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 You can also reach me via email at `hi@ummit.dev` or connect with me using my public key:
 
-https://gitlab.com/UmmIt.gpg
+https://links.ummit.dev/info/UmmIt.gpg
 
 If you'd like to connect through another method, please visit my Linktree website, which I created myself:
 
