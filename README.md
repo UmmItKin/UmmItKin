@@ -6,6 +6,10 @@ my dots here: https://github.com/UmmItC/dotfiles.git
 
 ![UmmItC's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmmItC&count_private=true&show_icons=true&theme=radical)
 
+If you like my work, consider supporting me on Ko-fi :D
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C219O3RV)
+
 ## Skills and Experience
 
 I started with GNU/Linux at 13. Over 7 years of experience. Self-learning all the time :)
