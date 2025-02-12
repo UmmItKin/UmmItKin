@@ -93,7 +93,7 @@ I am currently most interested in ethical hacking and GNU/Linux :p
 
 You can also reach me via email at `hi@ummit.dev` or connect with me using my public key:
 
-https://links.ummit.dev/info/UmmIt.gpg
+https://github.com/UmmItC.gpg
 
 If you'd like to connect through another method, please visit my Linktree website, which I created myself:
 
