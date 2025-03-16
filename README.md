@@ -1,4 +1,4 @@
-## Ayo :)
+## Hi everyone :)
 
 I'm a passionate `GNU/Linux` enthusiast and a first-year Information Security (IS) student, completely in love with `Arch Linux`. My daily driver is `Hyprland` on `Arch` ❤️❤️❤️🐧🐧🐧 :p
 
@@ -9,6 +9,10 @@ As a ricing enthusiast, I enjoy customizing my desktop to make it look cool. You
 If you appreciate my work, consider supporting me on Ko-fi! :D
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C219O3RV)
+
+## Working
+
+I am currently preparing for the OSCP and CompTIA Linux+ certifications.
 
 ## Skills and Experience
 
