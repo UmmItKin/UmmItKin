@@ -4,6 +4,8 @@ I'm a passionate `GNU/Linux` enthusiast and a first-year Information Security (I
 
 As a ricing enthusiast, I enjoy customizing my desktop to make it look cool. You can check out my dotfiles [here](https://github.com/UmmItC/dotfiles.git).
 
+***我係一個由小學就開始自學 tech 既香港人。鍾意我寫嘅 side project 可以俾粒星星我。我會好開心 :)***
+
 ![UmmItC's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmmItC&count_private=true&show_icons=true&theme=radical)
 
 If you appreciate my work, consider supporting me on Ko-fi! :D
