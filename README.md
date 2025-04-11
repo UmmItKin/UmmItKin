@@ -8,6 +8,8 @@ As a ricing enthusiast, I enjoy customizing my desktop to make it look cool. You
 
 ![UmmItC's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmmItC&count_private=true&show_icons=true&theme=radical)
 
+<a href="https://gitroll.io/profile/ubuQKn3ItXebcQH7yAERUdFgFC3N2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubuQKn3ItXebcQH7yAERUdFgFC3N2?theme=midnight" weight="300px" height="300px" alt="GitRoll Profile Badge"/></a>
+
 If you appreciate my work, consider supporting me on Ko-fi! :D
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C219O3RV)
