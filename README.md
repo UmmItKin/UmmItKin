@@ -8,7 +8,7 @@ As a ricing enthusiast, I enjoy customizing my desktop to make it look cool. You
 
 ![UmmItC's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmmItC&count_private=true&show_icons=true&theme=radical)
 
-<a href="https://gitroll.io/profile/ubuQKn3ItXebcQH7yAERUdFgFC3N2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubuQKn3ItXebcQH7yAERUdFgFC3N2?theme=midnight" weight="300px" height="300px" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/ubuQKn3ItXebcQH7yAERUdFgFC3N2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubuQKn3ItXebcQH7yAERUdFgFC3N2?theme=midnight" width="300px" height="300px" alt="GitRoll Profile Badge"/></a>
 
 If you appreciate my work, consider supporting me on Ko-fi! :D
 
@@ -93,9 +93,9 @@ I started my journey with GNU/Linux at the age of 13, and I now have over 7 year
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-I used to be really into topics related to Windows, Android, game development, and game hacking on Windows. But honestly, I’m not interested in those anymore—Windows sucks, and I’m all about Linux now. I’m too busy with Linux to bother with Android or game development; they just feel boring to me now.
+I used to be really into topics related to Windows, Android, game development, and game hacking on Windows. But honestly, I'm not interested in those anymore—Windows sucks, and I'm all about Linux now. I'm too busy with Linux to bother with Android or game development; they just feel boring to me now.
 
-I spent years focusing on those skills, so I’ll just mention them here as part of my past. But right now, my passion is all about Linux and ethical hacking!
+I spent years focusing on those skills, so I'll just mention them here as part of my past. But right now, my passion is all about Linux and ethical hacking!
 
 ### Contact
 
