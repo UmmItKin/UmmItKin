@@ -12,7 +12,7 @@ As a ricing enthusiast, I enjoy customizing my desktop to make it look cool. You
 
 If you appreciate my work, consider supporting me on Ko-fi! :D
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C219O3RV)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ummit)
 
 ## Working
 

@@ -14,7 +14,7 @@ This README is available in [English](./README.md), [Traditional Chinese](./READ
 
 如果你喜歡我的作品，可以考慮在 Ko-fi 支持我！:D
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C219O3RV)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ummit)
 
 ## 目前工作
 
