@@ -2,7 +2,7 @@ This README is available in [English](./README.md), [Traditional Chinese](./READ
 
 <div align="center">
 
-# UmmItC
+# UmmIt
 
 我是一個熱愛 `GNU/Linux` 的人，目前就讀資訊安全（IS）一年級，非常喜歡 `Arch Linux`。我每天使用 `Hyprland` 配 `Arch` ❤️❤️❤️🐧🐧🐧 :p
 
