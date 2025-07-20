@@ -1,47 +1,39 @@
-This README is available in [English](./README.md), [Traditional Chinese](./README.zh-TW.md), and [Cantonese](./README.zh-HK.md).
-
 <div align="center">
 
-# whoami
+# whoami;
 
-I'm a passionate, self-taught `GNU/Linux` enthusiast from Hong Kong who started this journey at age 13 and now has over 7 years of experience - currently a first-year Information Security student completely in love with `Arch Linux`, running `Hyprland` as my daily driver while focusing on three main areas: `GNU/Linux, cybersecurity, and ricing`, with particular interests in ethical hacking and GNU/Linux ricing. 
+I'm a passionate, self-taught `GNU/Linux` enthusiast from Hong Kong who started this journey at age 13 and now has over 7 years of experience, currently as a first-year Information Security student. I'm completely in love with `Arch Linux`, running `Hyprland` as my daily DWM, and focusing on three main areas: `GNU/Linux, cybersecurity, and ricing`, with particular interests in ethical hacking and GNU/Linux ricing.
 
 Check out my dotfiles [here](https://github.com/UmmItC/dotfiles.git)! :p
+
+I'm also a top committer of HK :D (Ranking 22~)
 
 [![committers.top badge](https://user-badge.committers.top/hong_kong/UmmItC.svg)](https://user-badge.committers.top/hong_kong/UmmItC)
 
 ## Languages & Skills
 
-My journey spans about 9 years. Here are some of my current skillsets:
+Here are some of my current skillsets, with a beautiful icon listing :D
 
-### Languages
+### Languages & Framework
 
-<img align="center" src="https://skillicons.dev/icons?i=py,bash,js,html,css,react,tailwind,md" />
+<img align="center" src="https://skillicons.dev/icons?i=js,ts,astro,react,tailwind,css,rust,py,bash" />
 
-### Deploy related
+### Development
 
-<img align="center" src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github" />
-
-### IDE
-
-<img align="center" src="https://skillicons.dev/icons?i=neovim" />
+<img align="center" src="https://skillicons.dev/icons?i=vercel,cloudflare,git,neovim,linux" />
 
 ### GNU/Linux
 
-So many distros that I know, but mainly with arch :p
+I use Arch as my daily driver, Debian/Raspberry Pi for servers, and am currently trying out NixOS, which seems very maintainable for server use.
 
-<img align="center" src="https://skillicons.dev/icons?i=linux,arch,debian,nix,raspberrypi" />
-
-### Currently Learning
-
-<img align="center" src="https://skillicons.dev/icons?i=rust,ts,nextjs" />
-
-
+<img align="center" src="https://skillicons.dev/icons?i=arch,debian,nix,raspberrypi" />
 
 ## Contact
 
-Feel free to email me at `hi@ummit.dev` or connect using my [GPG Key](https://github.com/UmmItC.gpg)
+Email me at `hi@ummit.dev` or connect using my [GPG Key](https://github.com/UmmItC.gpg)
 
-For all my social links, visit [links.ummit.dev](https://links.ummit.dev)
+Please include a clear subject line explaining why you are contacting me. I do my best to reply to every email :D
+
+However, any messages identified as spam by me, advertisements, or scams will result in the sender's email address being blocked on my server. So wasting your domain isn't are good idea :D lol
 
 </div>
