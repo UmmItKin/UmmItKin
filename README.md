@@ -10,6 +10,12 @@ I'm also a top committer of HK :D (Ranking 22~)
 
 [![committers.top badge](https://user-badge.committers.top/hong_kong/UmmItC.svg)](https://user-badge.committers.top/hong_kong/UmmItC)
 
+## CTF Player
+
+As cybersecurity enthusiasts, I also play CTFs when I can. Currently, I'm a team member of [ICEDTEA (冰茶戰隊)](https://ic3dt3a.org/).
+
+I'm also preparing for my first penetration testing certification - the CPTS (yes, not the OSCP, as it's too expensive for me right now). Hack The Box offers better value for me. and more harder i like it more.
+
 ## Languages & Skills
 
 Here are some of my current skillsets, with a beautiful icon listing :D
