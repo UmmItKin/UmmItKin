@@ -36,7 +36,7 @@ I use Arch as my daily driver, Debian/Raspberry Pi for servers, and am currently
 
 ## Contact
 
-Email me at `hi@ummit.dev` or connect using my [GPG Key](https://github.com/UmmItC.gpg)
+Email me at `hi@ummit.dev` or connect using my [GPG Key](https://github.com/UmmItKin.gpg)
 
 Please include a clear subject line explaining why you are contacting me. I do my best to reply to every email :D
 
