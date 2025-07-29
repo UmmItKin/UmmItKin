@@ -30,7 +30,7 @@ Here are some of my current skillsets, with a beautiful icon listing :D
 
 ### GNU/Linux
 
-I use Arch as my daily driver, Debian/Raspberry Pi for servers, and am currently trying out NixOS, which seems very maintainable for server use.
+I use Arch as my daily driver, Debian/Raspberry Pi for servers, and I'm currently trying out NixOS, which seems very maintainable for server use.
 
 <img align="center" src="https://skillicons.dev/icons?i=arch,debian,nix,raspberrypi" />
 
