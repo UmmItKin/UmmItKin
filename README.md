@@ -2,9 +2,9 @@
 
 # whoami;
 
-I'm a passionate, self-taught `GNU/Linux` enthusiast from Hong Kong who started this journey at age 13 and now has over 7 years of experience, currently as a first-year Information Security student. I'm completely in love with `Arch Linux`, running `Hyprland` as my daily DWM, and focusing on three main areas: `GNU/Linux, cybersecurity, and ricing`, with particular interests in ethical hacking and GNU/Linux ricing.
+I'm a passionate, self-taught `GNU/Linux` enthusiast from Hong Kong and started journey at age 13 and now has over 7 years of experience, currently as a Cyber Security student. running `Arch Linux`, `Hyprland` as my daily DWM.
 
-Check out my dotfiles [here](https://github.com/UmmItC/dotfiles.git)! :p
+Now creating my very first Distro based on arch linux. that called `UmmItOS`. and you can check out my dotfiles [here](https://github.com/UmmItC/dotfiles.git)! :p
 
 I'm also a top committer of HK :D (Ranking 22~)
 
