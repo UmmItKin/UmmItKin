@@ -10,7 +10,11 @@ I'm also a top committer of Hong Kong :) (Ranking 22~)
 
 [![committers.top badge](https://user-badge.committers.top/hong_kong/UmmItC.svg)](https://user-badge.committers.top/hong_kong/UmmItC)
 
-## CTF Player
+## Keyboard ⌨️
+
+Also, as a split keyboard user, I'm currently using the ZSA Moonlander keyboard. This keyboard has changed my life so far.
+
+## CTF Player 🚩
 
 As cybersecurity enthusiasts, I also play CTFs when I can. Currently, I'm a team member of [ICEDTEA (冰茶戰隊)](https://ic3dt3a.org/).
 
@@ -28,7 +32,7 @@ Here are some of my current skillsets, with a beautiful icon listing :D
 
 <img align="center" src="https://skillicons.dev/icons?i=vercel,cloudflare,git,neovim,linux" />
 
-### GNU/Linux
+### GNU/Linux 🐧
 
 I use Arch as my daily driver, Debian/Raspberry Pi for servers, and I'm currently trying out NixOS, which seems very maintainable for server use.
 
