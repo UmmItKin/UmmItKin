@@ -8,6 +8,7 @@ Now creating my very first Distro based on arch linux. that called `UmmItOS`. an
 
 I'm also a top committer of Hong Kong :) (Ranking 22~)
 
+[![committers.top badge](https://user-badge.committers.top/hong_kong/UmmItC.svg)](https://user-badge.committers.top/hong_kong/UmmItKin)
 
 ## Keyboard ⌨️
 
