@@ -8,7 +8,7 @@ Now creating my very first Distro based on arch linux. that called `UmmItOS`. an
 
 Moreover, Please review my documentation website about my side project.
 
-https://docs.withkin.me and https://docs.ummitdev.dev are the same pointed server.
+https://docs.withkin.me and https://docs.ummit.dev are the same pointed server.
 
 I'm also a top committer of Hong Kong :) (Ranking 22~)
 
