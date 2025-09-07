@@ -6,11 +6,9 @@ I'm a passionate, self-taught `GNU/Linux` enthusiast from Hong Kong and started 
 
 Now creating my very first Distro based on arch linux. that called `UmmItOS`. and you can check out my dotfiles [here](https://github.com/UmmItC/dotfiles.git)! :p
 
-Moreover, Please review my documentation website about my side project.
+Moreover, Please review my documentation website about my side project. https://docs.withkin.me
 
-https://docs.withkin.me and https://docs.ummit.dev are the same pointed server.
-
-I'm also a top committer of Hong Kong :) (Ranking 22~)
+I'm also a top committer of Hong Kong :) (Ranking 23~)
 
 [![committers.top badge](https://user-badge.committers.top/hong_kong/UmmItKin.svg)](https://user-badge.committers.top/hong_kong/UmmItKin)
 
