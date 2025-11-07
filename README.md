@@ -2,7 +2,7 @@
 
 # whoami;
 
-I'm a passionate, self-taught `GNU/Linux` enthusiast from Hong Kong and started journey at age 13 and now has over 7 years of experience, currently as a Cyber Security student. running `Arch Linux`, `Hyprland` as my daily DWM.
+I'm a passionate, self-taught `GNU/Linux` enthusiast from Hong Kong and started journey at age 13 and now has over 7 years of experience, currently as a Information Security student. running `Arch Linux`, `Hyprland` as my daily DWM.
 
 Now creating my very first Distro based on arch linux. that called `UmmItOS`. and you can check out my dotfiles [here](https://github.com/UmmItC/dotfiles.git)! :p
 
@@ -20,7 +20,7 @@ Also, as a split keyboard user, I'm currently using the ZSA Moonlander keyboard.
 
 As cybersecurity enthusiasts, I also play CTFs when I can. Currently, I'm a team member of [ICEDTEA (冰茶戰隊)](https://ic3dt3a.org/).
 
-I'm also preparing for my first penetration testing certification - the CPTS (yes, not the OSCP, as it's too expensive for me right now). Hack The Box offers better value for me. and more harder i like it more.
+I'm also preparing for my first penetration testing certification - the CJCA and CPTS :)
 
 ## Languages & Skills
 
@@ -28,21 +28,21 @@ Here are some of my current skillsets, with a beautiful icon listing :D
 
 ### Languages & Framework
 
-<img align="center" src="https://skillicons.dev/icons?i=js,ts,astro,react,tailwind,css,rust,py,bash" />
+<img align="center" src="https://skillicons.dev/icons?i=js,ts,astro,react,tailwind,py,bash" />
 
 ### Development
 
-<img align="center" src="https://skillicons.dev/icons?i=vercel,cloudflare,git,neovim,linux" />
+<img align="center" src="https://skillicons.dev/icons?i=vercel,cloudflare,git,neovim" />
 
 ### GNU/Linux 🐧
 
 I use Arch as my daily driver, Debian/Raspberry Pi for servers, and I'm currently trying out NixOS, which seems very maintainable for server use.
 
-<img align="center" src="https://skillicons.dev/icons?i=arch,debian,nix,raspberrypi" />
+<img align="center" src="https://skillicons.dev/icons?i=linux,arch,debian,nix,raspberrypi" />
 
 ## Contact
 
-Email me at `hi@ummit.dev` or connect using my [GPG Key](https://github.com/UmmItKin.gpg)
+Email me at `ayo@ummit.dev` or connect using my [GPG Key](https://github.com/UmmItKin.gpg)
 
 Please include a clear subject line explaining why you are contacting me. I do my best to reply to every email :D
 
