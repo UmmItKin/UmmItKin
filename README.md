@@ -4,41 +4,19 @@
 
 I'm a passionate, self-taught `GNU/Linux` enthusiast from Hong Kong and started journey at age 13 and now has over 7 years of experience, currently as a Information Security student. running `Arch Linux`, `Hyprland` as my daily DWM.
 
-Now creating my very first Distro based on arch linux. that called `UmmItOS`. and you can check out my dotfiles [here](https://github.com/UmmItC/dotfiles.git)! :p
-
-Moreover, Please review my documentation website about my side project. https://docs.withkin.me
-
 I'm also a top committer of Hong Kong :) (Ranking 23~)
 
 [![committers.top badge](https://user-badge.committers.top/hong_kong/UmmItKin.svg)](https://user-badge.committers.top/hong_kong/UmmItKin)
 
-## Keyboard ⌨️
-
-Also, as a split keyboard user, I'm currently using the ZSA Moonlander keyboard. This keyboard has changed my life so far.
-
-## CTF Player 🚩
+## Offensive Player, CTF Player
 
 As cybersecurity enthusiasts, I also play CTFs when I can. Currently, I'm a team member of [ICEDTEA (冰茶戰隊)](https://ic3dt3a.org/).
 
 I'm also preparing for my first penetration testing certification - the CJCA and CPTS :)
 
-## Languages & Skills
-
-Here are some of my current skillsets, with a beautiful icon listing :D
-
-### Languages & Framework
-
-<img align="center" src="https://skillicons.dev/icons?i=js,ts,astro,react,tailwind,py,bash" />
-
-### Development
-
-<img align="center" src="https://skillicons.dev/icons?i=vercel,cloudflare,git,neovim" />
-
 ### GNU/Linux 🐧
 
 I use Arch as my daily driver, Debian/Raspberry Pi for servers, and I'm currently trying out NixOS, which seems very maintainable for server use.
-
-<img align="center" src="https://skillicons.dev/icons?i=linux,arch,debian,nix,raspberrypi" />
 
 ## Contact
 
