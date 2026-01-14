@@ -1,13 +1,9 @@
 ```shell
-Nah, just a random guy who loves to play with InfoSec and Linux. That's all.
+Just a random guy who loves to play with InfoSec and Linux.
 
-問題兒童都來自 ....
+Mostly active on Discord and GitHub.
 
-你鐘意既撳個 follow 我會絕對睇到㗎 !! (No auto-follow bot, please.)
+For my information please see my website.
 
-**Mostly active on Discord and GitHub.**
-
-for Simple things email: `YXlvQHVtbWl0LmRldgo=`
-
-for jobs: `am9ic0BsYW1raW4ubWUK`
+Website: aHR0cHM6Ly9zaG9ydC51bW1pdC5kZXYvcmVhbAo=
 ```
