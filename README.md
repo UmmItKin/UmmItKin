@@ -1,9 +1,6 @@
 ```shell
-Just a random guy who loves to play with InfoSec and Linux.
-
-Mostly active on Discord and GitHub.
-
-For my information please see my website.
-
-Website: aHR0cHM6Ly9zaG9ydC51bW1pdC5kZXYvcmVhbAo=
+SnVzdCBhIHJhbmRvbSBndXkgd2hvIGxvdmVzIHRvIHBsYXkgd2l0aCBJbmZvU2VjIGFuZCBMaW5
+1eC4KCk1vc3RseSBhY3RpdmUgb24gRGlzY29yZCBhbmQgR2l0SHViLgoKRm9yIG15IGluZm9ybW
+F0aW9uIHBsZWFzZSBzZWUgbXkgd2Vic2l0ZS4KCldlYnNpdGU6IGFIUjBjSE02THk5emFHOXlkQ
+zUxYlcxcGRDNWtaWFl2Y21WaGJBbz0=
 ```
